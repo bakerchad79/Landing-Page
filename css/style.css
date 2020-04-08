@@ -6,8 +6,9 @@ body {
   margin:0;
   font-family: Impact, Charcoal, sans-serif	;
   font-size:20px;
-  color:#FF0000;
+  color:#00FFFF;
 line-height:1.6;
+  font-weight: bold;
 
 }
 
@@ -31,18 +32,6 @@ line-height:1.6;
 #showcase p{
   font-size:20px;
 }
-#learn-more-button {
-  border: 6px solid black;
-  color: red;
-  text-decoration: none;
-  padding: 5px;
-
-}
-#learn-more-button:hover {
-  background-color: white;
-  color: none;}
-
-
 
 #section-a{
   padding:20px;
